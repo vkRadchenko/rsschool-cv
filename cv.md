@@ -1,5 +1,3 @@
-![My foto](https://drive.google.com/file/d/15sezfJJo8AQbXNtWK9popSzyBq58RC06/view?usp=sharing)
-
 # Vladimir Radchenko
 
 ## Contacts
@@ -15,10 +13,13 @@
 
 ## About me
 
-Hi, my name is Vladimir radchenko! I'm 31 yars old.
-I want to become a cool front-end developer.  
-Apply for a job at EPAM. Work with strong and interesting developers.  
-I love to study and discover new things.
+Hi. I have a higher education (IT) and a master's degree in finance.
+
+I came to frontend because I knew the basis of html/css and developed website design (Figma,Photoshop).
+
+At the moment I have realized 4 projects. The last project was written independently using React.
+
+I like animals, fishing and getting knowledge through studying. I relax in nature or watching anime.
 
 ---
 
@@ -26,27 +27,24 @@ I love to study and discover new things.
 
 - **Hard skills**
 
-  - Basic HTML
-  - Basic CSS
-  - Basic js
-  - Basic git
-  - Basic bash
-  - VS Code
-  - Photoshop
-  - Affinity Designer
+  - HTML/CSS/JS/TypeScript
+  - React
+  - Redux
+  - Webpack
+  - Express
+  - MongoDB
+  - Docker
+  - Git
+  - Bash
+  - Photoshop/Affinity Designer
   - Figma
-  - After Effects
-  - Nuke
-  - Mocha
-  - Premiere Pro
 
 - **Soft skills**
   - Responsibility
   - Information search
-  - Tolerance
   - Adaptability
-  - Punctuality
   - Trainability
+  -
 
 ---
 
@@ -79,9 +77,11 @@ function solution(str){
   - Hexlet [Основы языка JavaScript](https://ru.hexlet.io/courses/js-basics)
   - Hexlet [Основы командной строки](https://ru.hexlet.io/courses/cli-basics)
   - Hexlet [Введение в Git](https://ru.hexlet.io/courses/intro_to_git)
-  - RS School/Front-end development - _In Progress_
+  - RS School/Front-end development -  2022Q3
+  - RS School/Front-end development -  2022Q4
+
 
 ## Language
 
-- **English (A1)** - _Learning_
+- **English (B1)** - _Learning_
 - **Russian:** - native
